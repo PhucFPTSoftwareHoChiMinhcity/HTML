@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a{
+    text-decoration: none;
+    color: darkgray;
+    font-weight: bold;
+}
+
+.container{
+    
+}
+
+.instructors{
+    border: 1px solid whitesmoke;
+    width: 300px;
+}
+
+.img1{
+    border-radius: 9000%;
+}
+
+.instructors1{
+    border: 1px solid whitesmoke;
+    width: 300px;
+
+}
+
